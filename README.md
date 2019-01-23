@@ -10,6 +10,6 @@ The following are screenshots of contributions I've made to private repositories
 
 ![](heatmap_contributions_2018.jpg?raw=true)
 
-## Insights Activity over the past year (Oct. 2017 - Nov 2018)
+## Insights Activity over the past 18 months (Mar. 2017 - Nov 2018)
 
 ![](insights_nov17_nov18.jpg?raw=true)
